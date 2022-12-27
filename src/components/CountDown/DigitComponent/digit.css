@@ -1,0 +1,10 @@
+.digit{
+    width: 150px;
+    height: 150px;
+    border: 5px solid red;
+    border-radius: 50%;
+    
+}
+.left_margin{
+    margin-left:20px
+}
